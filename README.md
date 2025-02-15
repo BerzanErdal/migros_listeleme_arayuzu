@@ -2,6 +2,9 @@ Migros Uygulaması - Flutter ile Geliştirilmiş Mobil Uygulama
 
 Bu proje, Migros'un çeşitli hizmetlerini (Sanal Market, Hemen, Yemek, Taze Direkt, Macro Online, Ekstra, Mion ve Müthiş Çekiliş) kullanıcıya listeleyen bir Flutter mobil uygulamasıdır. Uygulama, kullanıcı dostu bir arayüz sunar ve otomatik geçişli resim slider'ı, arama çubuğu ve mikrofon özellikleri gibi modern mobil uygulama özelliklerini içerir.
 
+📸 Ekran Görüntüleri
+
+![image](https://github.com/user-attachments/assets/217cbecc-893e-43dd-a2c1-c25005fa0bf4)
 
 
 🚀 Özellikler
